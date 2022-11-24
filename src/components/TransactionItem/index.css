@@ -1,0 +1,40 @@
+.list-container-transaction {
+  list-style-type: none;
+  display: flex;
+}
+.trans-title {
+  font-size: 15px;
+  font-family: roboto;
+}
+.trans-amount {
+  font-size: 15px;
+  font-family: roboto;
+}
+.trans-type {
+  font-size: 15px;
+  font-family: roboto;
+}
+.delete-btn {
+  border: none;
+  background-color: transparent;
+}
+.delete-img {
+  width: 30px;
+  height: 30px;
+}
+.table {
+  padding-left: 0px;
+  display: flex;
+  width: 100%;
+}
+.table-data {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 8px;
+  height: 40px;
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
